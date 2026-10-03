@@ -1,0 +1,8 @@
+streamlit
+groq
+python-dotenv
+itsdangerous
+websockets
+python-multipart
+httptools
+bcrypt
